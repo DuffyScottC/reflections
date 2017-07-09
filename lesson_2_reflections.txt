@@ -11,3 +11,8 @@ The staging area only contains files you intent to commit on your next commit, w
 your working directory contains all files at all times. It offers you the ability to
 make logical changes per commit, rather than having to force all files to be committed
 at once. 
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+Once you've added the files you think you want to commit, you can use "git diff --staged"
+to see if you are adding the changes you want to be adding. 
