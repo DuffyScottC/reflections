@@ -21,7 +21,10 @@ Q: What are some situations when branches would be helpful in keeping your histo
 organized? How would branches help?
 
 If my master branch is my production-quality branch, then I can make new features and 
-stuff without altering my master branch until I know it works.
+stuff without altering my master branch until I know it works. A development branch is 
+where actual work would take place on the project. You can even have separate branches
+for separate features so that if you get board of that feature, you can switch to a 
+different one. 
 
 
 
