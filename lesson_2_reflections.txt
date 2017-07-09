@@ -3,3 +3,11 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 The only thing that really happens is that it creates a hidden file named .git. 
 You now have all you need to start creating commits and branches and things. You can't
 do these things without first running git init. 
+
+Q: How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+The staging area only contains files you intent to commit on your next commit, whereas 
+your working directory contains all files at all times. It offers you the ability to
+make logical changes per commit, rather than having to force all files to be committed
+at once. 
