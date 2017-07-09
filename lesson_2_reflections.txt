@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+The only thing that really happens is that it creates a hidden file named .git. 
+You now have all you need to start creating commits and branches and things. You can't
+do these things without first running git init. 
