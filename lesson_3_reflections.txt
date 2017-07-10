@@ -3,3 +3,11 @@ Q: When would you want to use a remote repository rather than keeping all your w
 I can think of several instances when this would be helpful. If I had a project that I 
 wanted to work on both from home and at school, this would be a helpful feature. 
 If I were working on a project with multiple people, then I would want to use a remote.
+
+
+Q: Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+If git automattically updated every repository, first of all you might have a bunch of test 
+branches in your public repository that you maybe did not want there. Second of all, you
+would wind up sharing code that you weren't ready to share yet. 
