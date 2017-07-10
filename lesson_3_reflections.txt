@@ -11,3 +11,22 @@ stay up-to-date with your remote repository?
 If git automattically updated every repository, first of all you might have a bunch of test 
 branches in your public repository that you maybe did not want there. Second of all, you
 would wind up sharing code that you weren't ready to share yet. 
+
+Q: Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+Forking is specific to git. If you want to make a copy of a repository that someone else
+has made, while still linking back to the original repository, use fork. If you just want
+to work on an existing repository, use clone to put it on your computer. Branches are for
+adding new features without affecting other branches, particularly the master branch. 
+
+
+
+
+
+
+
+
+
+
+
