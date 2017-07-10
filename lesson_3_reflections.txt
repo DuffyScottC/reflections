@@ -29,6 +29,13 @@ already on GitHub) by knowing where your local version thought the head of your 
 was and where it actually is, so that git knows which commits need to be resolved with
 each other. 
 
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+I would have to use dropbox or something. Maybe seeing changes other users have made and
+integrating changes into the main project would be a little easier, but collaboration
+would overall be much more difficult. 
+
 
 
 
