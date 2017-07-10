@@ -30,7 +30,15 @@ Q: How do the diagrams help you visualize the branch structure?
 
 Drawing that diagram before looking at the answer was probably the best thing I could do
 to help me understand the concept. If I were only trying to keep track of the text-based 
-logs without drawing/visualizing the shape of the branches, I would be completely lost. 
+logs without drawing/visualizing the shape of the branches, I would be completely lost.
+
+Q: What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do? 
+
+When you merge two branches together, you get a new commit with a combination of the two
+branches. In the diagram, that merge is represented as a child of both branches because
+it is linked to the commit history of both branches. 
+
 
 
 
