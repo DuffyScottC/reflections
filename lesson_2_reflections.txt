@@ -26,5 +26,14 @@ where actual work would take place on the project. You can even have separate br
 for separate features so that if you get board of that feature, you can switch to a 
 different one. 
 
+Q: How do the diagrams help you visualize the branch structure?
+
+Drawing that diagram before looking at the answer was probably the best thing I could do
+to help me understand the concept. If I were only trying to keep track of the text-based 
+logs without drawing/visualizing the shape of the branches, I would be completely lost. 
+
+
+
+
 
 
