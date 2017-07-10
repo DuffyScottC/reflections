@@ -36,6 +36,15 @@ I would have to use dropbox or something. Maybe seeing changes other users have 
 integrating changes into the main project would be a little easier, but collaboration
 would overall be much more difficult. 
 
+Q: When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+If I were adding a new feature, I would create a branch and work on it from there, so that 
+I could isolate my own work without worrying about the other changes other people are 
+making to the rest of the project. That way, I could merge my new feature into the main
+branch with a pull request and easily integrate my fully-functional feature in with
+the features other people have been working on and merging into master. 
+
 
 
 
