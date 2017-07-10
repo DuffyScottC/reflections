@@ -39,6 +39,15 @@ When you merge two branches together, you get a new commit with a combination of
 branches. In the diagram, that merge is represented as a child of both branches because
 it is linked to the commit history of both branches. 
 
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Git will automatically do merges that could take forever to do manually. Git brings 
+up conflicts and shows you exactly where they are in as concise a way as possible so that
+you can work it out with your colleague. Cons: It might make mistakes where you might
+not have. It might struggle with something you see as obvious. 
+
+
+
 
 
 
