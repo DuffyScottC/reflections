@@ -20,6 +20,14 @@ has made, while still linking back to the original repository, use fork. If you 
 to work on an existing repository, use clone to put it on your computer. Branches are for
 adding new features without affecting other branches, particularly the master branch. 
 
+Q: What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+If you have a copy of the last known state of the remote, then you can easily resolve
+conflicts (such as when two people have new commits to the same branch, and only one is
+already on GitHub) by knowing where your local version thought the head of your remote
+was and where it actually is, so that git knows which commits need to be resolved with
+each other. 
 
 
 
